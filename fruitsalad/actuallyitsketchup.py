@@ -13,4 +13,4 @@ async def on_ready():
 
 #Run the client
 
-client.run('ODYyODMxNTc4NDY4MTg4MTgy.YOeEhg.A4j0JVlaB1ckTVsbLDzMV_jUksM')
+client.run('token')
