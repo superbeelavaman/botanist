@@ -7,9 +7,9 @@ client = discord.Client()
 @client.event
 async def on_ready():
     #Fruit Salad!
-    generoot = client.get_channel(831967470297677865)
+    general = client.get_channel(862810154922409997)
 
-    await generoot.send('fruit salad')
+    await general.send('fruit salad')
 
 #Run the client
 
